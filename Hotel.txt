@@ -1,0 +1,19 @@
+**** WELCOME TO THE HOTEL ****
+
+    ---- Phone Numbers ----
+
+For restaurant service, call : 200
+For laundry service, call : 201
+For room service, call : 202
+To contact at the reception, call : 203
+
+    ---- Floors of services ----
+
+Reception ---> Floor 0
+Restaurant ---> Floor 0
+Game center ---> Floor 2
+Swimming pool ---> Floor 1
+Spa ---> Floor 1
+
+**** THANK YOU ****
+
